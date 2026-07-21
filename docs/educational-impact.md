@@ -38,19 +38,19 @@ Most existing AI systems focus primarily on generating answers. Math Intellect i
 
 | ---------------------------- | ------------------- | ---------------------------------- |
 
-| Input Method                 | Text prompts        | Direct image upload through LINE   |
+| Input Method                  | Text prompts        | Direct image upload through LINE   |
 
-| Curriculum Awareness         | Generic             | Cambridge IGCSE-focused            |
+| Curriculum Awareness          | Generic             | Cambridge IGCSE-focused            |
 
-| Solution Style               | Conversational      | Step-by-step classroom methodology |
+| Solution Style                | Conversational      | Step-by-step classroom methodology |
 
-| Mark Scheme Support          | Limited             | Examiner-inspired structure        |
+| Mark Scheme Support           | Limited             | Examiner-inspired structure        |
 
-| Quality Control              | Single AI response  | Multi-layer verification pipeline  |
+| Quality Control               | Single AI response  | Multi-layer verification pipeline  |
 
-| Assessment Objectives        | Usually unavailable | AO classification                  |
+| Assessment Objectives         | Usually unavailable | AO classification                  |
 
-| Teacher Workflow Integration | Minimal             | Built around teaching practice     |
+| Teacher Workflow Integration  | Minimal             | Built around teaching practice     |
 
 
 

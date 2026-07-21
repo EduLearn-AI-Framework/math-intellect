@@ -38,7 +38,7 @@ The current prototype focuses on Cambridge IGCSE Mathematics and reflects both c
 
 
 
-International school teachers spend a significant amount of time preparing worksheets, producing mark schemes, and providing individual feedback. Students, meanwhile, often receive answers without understanding the reasoning process behind them. And they can't ask the teachers 24/7. 
+International school teachers spend a significant amount of time preparing worksheets, producing mark schemes, and providing individual feedback. Students, meanwhile, often receive answers without understanding the reasoning process behind them. And they can't ask the teachers 24/7.
 
 
 
@@ -86,7 +86,7 @@ Multi-Layer Reasoning Engine
 
 
 
-The platform does not rely on a single AI response. Instead, it employs a structured verification pipeline:	
+The platform does not rely on a single AI response. Instead, it employs a structured verification pipeline:
 
 
 
@@ -190,31 +190,31 @@ The system is currently deployed as a self-hosted prototype using n8n and ngrok,
 
 | ------------------------------------------------------------------ |
 
-| Workflow Automation    	n8n                                  |
+| Workflow Automation   --->>>  	n8n                          |
 
 | ------------------------------------------------------------------ |
 
-| Messaging Platform     	LINE Official Account                |
+| Messaging Platform    --->>>  	LINE Official Account        |
 
 | ------------------------------------------------------------------ |
 
-| AI Engine              	OpenAI Vision \& GPT                  |
+| AI Engine             --->>>  	OpenAI Vision \& GPT          |
 
 | ------------------------------------------------------------------ |
 
-| API Integration        	LINE Messaging API                   |
+| API Integration       --->>>  	LINE Messaging API           |
 
 | ------------------------------------------------------------------ |
 
-| Secure Tunneling       	ngrok                                |
+| Secure Tunneling      --->>>  	ngrok                        |
 
 | ------------------------------------------------------------------ |
 
-| Output Engine          	JavaScript Formatter                 |
+| Output Engine         --->>>  	JavaScript Formatter         |
 
 | ------------------------------------------------------------------ |
 
-| Future Infrastructure  	Docker · PostgreSQL · Cloud Services |
+| Future Infrastructure --->>> 	Docker · PostgreSQL · Cloud Services |
 
 | ------------------------------------------------------------------ |
 
@@ -415,24 +415,4 @@ Its architecture is designed to support future applications in:
 
 
 Math Intellect represents an early-stage EdTech initiative with the potential to scale into a broader educational ecosystem serving students and educators across Asia.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

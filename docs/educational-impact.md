@@ -72,25 +72,25 @@ Rather than relying on a single AI response, the platform introduces multiple re
 
 Question Analyzer
 
-&#x20;       ↓
+      ↓
 
-Solver
+    Solver
 
-&#x20;       ↓
+      ↓
 
-Examiner
+    Examiner
 
-&#x20;       ↓
+      ↓
 
-Moderator
+  Moderator
 
-&#x20;       ↓
+      ↓
 
 Quality Checker
 
-&#x20;       ↓
+      ↓
 
-Formatter
+  Formatter
 
 
 

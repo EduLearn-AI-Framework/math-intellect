@@ -186,7 +186,7 @@ The system is currently deployed as a self-hosted prototype using n8n and ngrok,
 
 
 
-| Layer                 | 	Technology                           |
+| Layer                 --->>> 		Technology                   |
 
 | ------------------------------------------------------------------ |
 
